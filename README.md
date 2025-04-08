@@ -4,7 +4,7 @@
 This is an open - source project based on FastAPI. The main functionality is to count the number of hot dogs in an image given its URL. It uses OpenCV for image processing and provides a simple API through FastAPI.
 这是一个基于 FastAPI 的开源项目。其主要功能是根据给定的图片 URL，统计图片中热狗的数量。该项目使用 OpenCV 进行图像处理，并通过 FastAPI 提供一个简单的 API 接口。
 ## Project Structure
-
+Please switch to the master branch to view the source code.
 ## Installation
 ### Clone the project
 The service will start at `http://0.0.0.0:8000`
